@@ -30,4 +30,10 @@
     <string name="alert_out_of_range">%1$s is OUT OF RANGE — no signal received!</string>
     <string name="channel_status">Monitoring status</string>
     <string name="channel_alerts">Perimeter alerts</string>
+
+    <string name="splash_line1">This is an assignment by</string>
+    <string name="splash_ids">AK25/CIT/CSC/MSC/001\nand\nAK25/CIT/CSC/MSC/011</string>
+    <string name="splash_course">on Pervasive Computing</string>
+    <string name="splash_lecturer">by Dr. Ifreke J. Udoeka</string>
+    <string name="next">Next</string>
 </resources>
