@@ -7,6 +7,10 @@ object BleConstants {
     val SERVICE_UUID: ParcelUuid =
         ParcelUuid.fromString("0000feed-0000-1000-8000-00805f9b34fb")
 
+    // Service-data UUID used to broadcast short parent -> child messages.
+    val MSG_SERVICE_UUID: ParcelUuid =
+        ParcelUuid.fromString("0000feee-0000-1000-8000-00805f9b34fb")
+
     // Calibrated TX power at 1 m, used for distance estimation (dBm).
     const val TX_POWER_AT_1M = -59
 
