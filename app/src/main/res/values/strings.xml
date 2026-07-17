@@ -36,4 +36,14 @@
     <string name="splash_course">on Pervasive Computing</string>
     <string name="splash_lecturer">by Dr. Ifreke J. Udoeka</string>
     <string name="next">Next</string>
+
+    <string name="monitoring_started">Monitoring %1$s…</string>
+    <string name="monitoring_stopped">Monitoring stopped.</string>
+    <string name="message_hint">Message to child (max 20)</string>
+    <string name="send_message">Send</string>
+    <string name="message_broadcasting">Sending…</string>
+    <string name="message_sent">Message broadcast to child.</string>
+    <string name="message_failed">Message broadcast failed (error %1$d)</string>
+    <string name="message_empty">Type a message first.</string>
+    <string name="child_message">📩 Message from parent:\n%1$s</string>
 </resources>
